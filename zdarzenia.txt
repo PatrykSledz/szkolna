@@ -1,0 +1,2 @@
+1;Wydano;Laptop;asd;asd;asd;12.11.2026;otwarte
+2;Wydano;aparat;asd;asd;asd;04.11.2026;otwarte
